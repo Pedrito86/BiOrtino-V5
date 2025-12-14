@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://biortino.com/sitemap.xml
